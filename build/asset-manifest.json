@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PdfEditor/static/css/main.168f0d63.css",
+    "main.js": "/PdfEditor/static/js/main.775a351f.js",
+    "static/js/453.bf83349c.chunk.js": "/PdfEditor/static/js/453.bf83349c.chunk.js",
+    "index.html": "/PdfEditor/index.html",
+    "main.168f0d63.css.map": "/PdfEditor/static/css/main.168f0d63.css.map",
+    "main.775a351f.js.map": "/PdfEditor/static/js/main.775a351f.js.map",
+    "453.bf83349c.chunk.js.map": "/PdfEditor/static/js/453.bf83349c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.168f0d63.css",
+    "static/js/main.775a351f.js"
+  ]
+}
